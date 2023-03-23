@@ -23,8 +23,6 @@
 
 <br>
 
-<img src="https://drive.google.com/file/d/1P9xSULloi9CiBjS-2v287fgR35lSFoRC/view?usp=share_link" alt="Hello world">
-
 
 
 

@@ -25,7 +25,9 @@
 
 
 What is the  Data Science Process?
+
 The data science process is a systematic approach to solving problems and extracting insights from data. It typically involves the following steps:
+
 1. Problem Definition: Clearly define the problem or question you want to address. Understand the objectives, scope, and requirements of the project.
  2. Data Collection: Gather relevant data from various sources, such as databases, APIs, or external datasets. Ensure the data is representative, comprehensive, and meets the project requirements.
  3. Data Understanding: Explore and analyze the collected data to gain insights into its structure, quality, and relationships. This involves tasks like data profiling, visualization, and statistical analysis.

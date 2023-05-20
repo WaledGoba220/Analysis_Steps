@@ -39,6 +39,13 @@ The data science process is a systematic approach to solving problems and extrac
  9. Communication and Visualization: Summarize and communicate the findings, insights, and recommendations derived from the data analysis process. Use visualizations, reports, and presentations to effectively communicate the results to stakeholders.
  10. Iteration and Improvement: Iterate on the entire process by incorporating feedback, new data, or new requirements. Continuously refine and improve the models, techniques, and methodologies used.
 
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://learn.microsoft.com/en-us/azure/architecture/data-science-process/media/lifecycle/tdsp-lifecycle2.png" alt="Hello world">
+
 
 
 

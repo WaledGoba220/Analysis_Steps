@@ -46,6 +46,10 @@ The data science process is a systematic approach to solving problems and extrac
 
 <img src="https://learn.microsoft.com/en-us/azure/architecture/data-science-process/media/lifecycle/tdsp-lifecycle2.png" alt="Hello world">
 
+<br>
+<br>
 
+<img src="https://static.javatpoint.com/tutorial/machine-learning/images/machine-learning-pipeline2.png" alt="Hello world">
+<br>
 
 

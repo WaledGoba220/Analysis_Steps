@@ -51,5 +51,8 @@ The data science process is a systematic approach to solving problems and extrac
 
 <img src="https://static.javatpoint.com/tutorial/machine-learning/images/machine-learning-pipeline2.png" alt="Hello world">
 <br>
+<br>
+<img src="https://datatron.com/wp-content/uploads/2021/05/Machine-Learning-Pipeline_1.png" alt="Hello world">
+<br>
 
 
